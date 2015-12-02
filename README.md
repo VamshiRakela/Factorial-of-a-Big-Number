@@ -1,1 +1,3 @@
 # Factorial-of-a-Big-Number
+General code for finding factorial using recursion can compute factorials upto 19 approx. To compute factorials such as 100! general method is not possible since 100! factorial has 158 digits and the range of int is limited even by using long access modifier.
+Therefore the above program uses basic multiplication concept and stores each digit in an array. In this way all the 158 digits can be stored in 158 locations in an array...
